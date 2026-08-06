@@ -1,2 +1,2 @@
 # etch-the-sketch 
-project of the ording project
+project of the odin project
